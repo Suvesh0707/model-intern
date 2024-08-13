@@ -1,0 +1,157 @@
+/* Events (senior college) */
+/* 1 */
+.event-text{
+    padding-top: 60px;
+    padding-left: 40px;
+    font-size: 25px;
+}
+
+.event-bg{
+    background-color:transparent;
+}
+
+.event-img img{
+    width: 350px;
+    height: 350px;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.event-line-hr{
+    width: 150px;
+    height: 4px;
+    background-color: rgb(10, 89, 82);
+    border: none;
+    margin-left: 100px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+/* 2 */
+
+.event-bot{
+    margin-bottom: 30px;
+}
+
+.event-line-hr2{
+    width: 70px;
+    height: 4px;
+    background-color: rgb(10, 89, 82);
+    border: none;
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+/* job opportunities */
+.bcom-finance-h3 {
+    font-size: 25px;
+    font-family: serif;
+}
+
+.bcom-finance-p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bcom-finance{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.line4{
+    width: 70px;
+    height: 4px;
+    background-color: rgb(10, 89, 82);
+    border: none;
+    margin-left: 580px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.photo-2020 img{
+    width: 350px;
+    height: 350px;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    padding-left: 25px;
+}
+/* photo gallery */
+.photo-head-2021{
+    padding-top: 80px;
+    padding-left: 60px;
+    font-size: 23px;
+}
+
+.photo-line-hr{
+    width: 150px;
+    height: 4px;
+    background-color: rgb(10, 89, 82);
+    border: none;
+    margin-left: 190px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+}
+
+.photo-line-hr2{
+    width: 250px;
+    height: 4px;
+    background-color: rgb(10, 89, 82);
+    border: none;
+    margin-left: 220px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+}
+
+.photo-line-hr3{
+    width: 130px;
+    height: 4px;
+    background-color: rgb(10, 89, 82);
+    border: none;
+    margin-left: 140px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+}
+
+.feed3{
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 35px;
+}
+
+.line4{
+    width: 150px;
+    height: 4px;
+    background-color: rgb(10, 89, 82);
+    border: none;
+    margin-left: 190px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.feedback p a{
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+    padding: 100px;
+}
+
+.foot-feed{
+    padding-top: 200px;
+}
+
+.line5{
+    width: 50px;
+    height: 4px;
+    background-color: rgb(10, 89, 82);
+    border: none;
+    margin-left: 580px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
